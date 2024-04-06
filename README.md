@@ -5,53 +5,53 @@ finding genuine relationships. With a user-centric approach, Hart incorporates a
 ensuring authenticity, security, and seamless communication.
 
 * Onboarding Screen - 1
-  
-![Screenshot 1](/haiwnatss/screenshot1.png)
+
+<img src="/haiwnatss/screenshot1.png" alt="screenshot1" width="250"/>
 
 * Login Screen - 2
   
-![Screenshot 2](/haiwnatss/screenshot2.png)
+<img src="/haiwnatss/screenshot2.png" alt="screenshot2" width="250"/>
 
 * Register Screen - 3
   
-![Screenshot 3](/haiwnatss/screenshot3.png)
+<img src="/haiwnatss/screenshot3.png" alt="screenshot3" width="250"/>
 
 * Landing Screen - 4
   
-![Screenshot 4](/haiwnatss/screenshot4.png)
+<img src="/haiwnatss/screenshot4.png" alt="screenshot4" width="250"/>
 
 * Ad Detail Screen - 5
   
-![Screenshot 5](/haiwnatss/screenshot5.png)
+<img src="/haiwnatss/screenshot5.png" alt="screenshot5" width="250"/>
 
 * Create Ad First Step Screen - 6
   
-![Screenshot 6](/haiwnatss/screenshot6.png)
+<img src="/haiwnatss/screenshot6.png" alt="screenshot6" width="250"/>
 
 * Create Ad Second Step Screen - 7
   
-![Screenshot 7](/haiwnatss/screenshot7.png)
+<img src="/haiwnatss/screenshot7.png" alt="screenshot7" width="250"/>
 
 * Create Ad Third Step Screen - 8
   
-![Screenshot 8](/haiwnatss/screenshot8.png)
+<img src="/haiwnatss/screenshot8.png" alt="screenshot8" width="250"/>
 
 * Clinics Screen - 9
   
-![Screenshot 9](/haiwnatss/screenshot9.png)
+<img src="/haiwnatss/screenshot9.png" alt="screenshot9" width="250"/>
 
 * Stores Screen - 10
   
-![Screenshot 10](/haiwnatss/screenshot10.png)
+<img src="/haiwnatss/screenshot10.png" alt="screenshot10" width="250"/>
 
 * More Screen - 11
   
-![Screenshot 11](/haiwnatss/screenshot11.png)
+<img src="/haiwnatss/screenshot11.png" alt="screenshot11" width="250"/>
 
 * MyAds Screen - 12
   
-![Screenshot 12](/haiwnatss/screenshot12.png)
+<img src="/haiwnatss/screenshot12.png" alt="screenshot12" width="250"/>
 
 * Filter Screen - 13
   
-![Screenshot 13](/haiwnatss/screenshot13.png)
+<img src="/haiwnatss/screenshot13.png" alt="screenshot13" width="250"/>
