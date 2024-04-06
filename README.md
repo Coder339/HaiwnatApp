@@ -1,8 +1,8 @@
 # HaiwnatApp
 
-Hart is an innovative dating app meticulously crafted to foster meaningful connections, empower interactions, and facilitate the journey of
-finding genuine relationships. With a user-centric approach, Hart incorporates a suite of features that redefine the dating experience,
-ensuring authenticity, security, and seamless communication.
+Haiwnat is an innovative and comprehensive mobile application designed to revolutionize the way pet enthusiasts discover, acquire, and
+care for their beloved animals. More than just a marketplace, Haiwnat serves as a one-stop destination for all things pets, offering a diverse
+range of animals, pet-related services, and essential accessories sourced directly from trusted stores.
 
 * Onboarding Screen - 1
 
